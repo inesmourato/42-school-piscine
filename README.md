@@ -6,7 +6,14 @@ Piscine start date: 09-01-2024.
 
 # Projects
 
-| Project  | Grade |
-| ------------- | ------------- |
-| I Accept Lisbon  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Project  |
+| ------------- | 
+| I Accept Lisbon  |
+| Shell00  | 
+| Shell01  |
+| C01 |
+| C02 |
+| C03 |
+| C04 |
+| C05 |
+| C06 |
