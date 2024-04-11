@@ -8,12 +8,11 @@ Piscine start date: 09-01-2024.
 
 | Project  |
 | ------------- | 
-| I Accept Lisbon  |
-| Shell00  | 
-| Shell01  |
-| C01 |
-| C02 |
-| C03 |
-| C04 |
-| C05 |
-| C06 |
+| [C00](https://github.com/inesmourato/42-school-piscine/tree/main/c00) |
+| [C01](https://github.com/inesmourato/42-school-piscine/tree/main/c01) |
+| [C02](https://github.com/inesmourato/42-school-piscine/tree/main/c02) |
+| [C03](https://github.com/inesmourato/42-school-piscine/tree/main/c03) |
+| [C04](https://github.com/inesmourato/42-school-piscine/tree/main/c04) |
+| [C05](https://github.com/inesmourato/42-school-piscine/tree/main/c05) |
+| [C06](https://github.com/inesmourato/42-school-piscine/tree/main/c06) |
+| [C07](https://github.com/inesmourato/42-school-piscine/tree/main/c07) |
